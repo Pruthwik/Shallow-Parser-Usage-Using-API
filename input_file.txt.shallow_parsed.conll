@@ -1,0 +1,32 @@
+भारत	NNP	B-NP
+में	PSP	I-NP
+कोरोना	NNP	B-NP
+(	SYM	B-NP
+छोरोन	NNPC	I-NP
+)	SYM	I-NP
+की	PSP	B-FRAGP
+आहट	NN	B-NP
+होते	VM	B-VGNF
+ही	RP	I-VGNF
+इसका	PRP	B-NP
+बुरा	JJ	B-NP
+असर	NN	I-NP
+दिखाई	VM	B-VGF
+देने	VAUX	I-VGF
+लगा	VAUX	I-VGF
+है	VAUX	I-VGF
+.	SYM	I-VGF
+
+बीते	VM	B-VGNF
+कारोबारी	NN	B-NP
+दिन	NN	I-NP
+बुधवार	NNP	B-NP
+को	PSP	I-NP
+शेयर	NNC	B-NP
+बाजार	NN	I-NP
+अचानक	RB	B-RBP
+भरभराकर	VM	B-VGNF
+गिर	VM	B-VGF
+गया	VAUX	I-VGF
+.	SYM	I-VGF
+
