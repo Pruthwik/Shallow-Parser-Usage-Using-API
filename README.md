@@ -12,3 +12,4 @@
     + Tamil (tam)
     + Bengali (ben) 
 - For more information about SSF, download the SSF guidelines from [here](https://verbs.colorado.edu/hindiurdu/guidelines_docs/ssf-guide.pdf)
+- For tokenizers for Indian languages, use [our repo](https://github.com/Pruthwik/Tokenizer_for_Indian_Languages)
