@@ -6,5 +6,5 @@
 input_file=$1
 language=$2
 level=$3
-python run_shallow_parser_api_and_save_to_file.py --input $input_file --output $input_file".shallow_parsed.ssf" --lang $language
-python extract_data_from_ssf_in_conll_format_for_file.py --input $input_file".shallow_parsed.ssf" --output $input_file".shallow_parsed.conll" --level $level
+python3 run_shallow_parser_api_and_save_to_file.py --input $input_file --output $input_file".shallow_parsed.ssf" --lang $language
+python3 extract_data_from_ssf_in_conll_format_for_file.py --input $input_file".shallow_parsed.ssf" --output $input_file".shallow_parsed.conll" --level $level
