@@ -1,5 +1,6 @@
 # The code is to be run in python3, not python2
-# Install requests package, to install the package  use the command pip install requests
+# Install requests package, to install the package use the command  
+pip install requests
 # How to run the code
 - 2 steps involved
   * run_shallow_parser_api_and_save_to_file.py: Runs the shallow parser API and saved the SSF output into a file.
